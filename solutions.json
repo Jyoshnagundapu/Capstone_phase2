@@ -1,0 +1,64 @@
+{
+    "Washing Machine": {
+        "Washing Machine Not Turning On": "Check if the power cord is plugged in properly. Ensure the power outlet is functioning by plugging in another device. Check if there's a blown fuse or tripped circuit breaker. If everything seems fine, it could be an issue with the control panel or the door switch, which might require professional repair.",
+
+        "Machine Not Filling with Water": "Make sure the water supply valves are fully open. Check for kinks or blockages in the inlet hoses. Clean the inlet filters/screens. If the problem persists, there could be an issue with the water inlet valve, pressure switch, or electronic control board, which may require professional attention.",
+
+        "Machine Not Draining Properly": "Check for clogs in the drain hose or filter. Ensure the drain hose is not kinked or bent. Clean the drain pump filter if accessible. Sometimes, small objects like coins or debris can obstruct the pump. If the problem persists, there may be an issue with the drain pump or the drain hose, which might need professional repair.",
+
+        "Machine Shaking or Making Unusual Noises": "Make sure the machine is properly leveled. Adjust the leveling legs if necessary. Ensure that the load inside the machine is balanced. Overloading the machine can cause it to shake excessively. Check for loose components such as shipping bolts (if not removed during installation), loose drum bearings, or worn-out shock absorbers. Tighten any loose screws or bolts. If the issue persists, it might require professional inspection.",
+
+        "Clothes Coming Out Still Dirty": "Check if the detergent dispenser is clogged or if the detergent is being dispensed properly. Make sure you're using the correct type and amount of detergent for the load size and soil level. Clean the washer drum and door seal to remove any buildup of detergent residue or mold. Ensure proper water temperature settings for the type of laundry being washed. If the problem continues, there could be an issue with the agitator, wash plate, or water temperature sensor, which may require professional assistance.",
+
+        "Machine Not Spinning": "Ensure the machine is not overloaded. Check for any obstructions around the door seal or inside the drum. Verify that the lid or door is securely closed. If the machine still doesn't spin, it could be due to a faulty lid switch, drive belt, motor coupling, or motor, which might require professional repair.",
+
+        "Foul Odor from the Machine": "Run a cleaning cycle with hot water and a washing machine cleaner or a mixture of vinegar and baking soda. Leave the door or lid open between wash cycles to allow airflow and prevent mold growth. Wipe down the door seal and detergent dispenser regularly. Check for and remove any trapped debris in the drain pump filter. If the odor persists, there might be mold or mildew buildup inside the machine, which may require thorough cleaning or professional servicing."
+    },
+    "Refrigerator": {
+        "Refrigerator not cooling": "If your problem was Blocked vents, dirty condenser coils, faulty thermostat, or a malfunctioning compressor then Check for any obstructions in the vents and clear themif necessary.Clean the condenser coils at the back or underneath the refrigerator.Ensure that the thermostat isset to the correct temperature.If these steps don 't work, it might require professional repair or servicing.",
+
+        "Excessive frost buildup in the freezer": "If your problem was Defective door seal, frequent door openings, or a malfunctioning defrost system then Inspect the door seal for any damage and replace if necessary.Try to limit the frequency of opening the freezer door.Checkif the defrost system is functioning properly and replace any faulty componentsif needed.",
+
+        "Water leakage from the refrigerator": "If your problem was Blocked or frozen defrost drain, damaged water supply line, or a malfunctioning water filter then Clear any blockages in the defrost drain with hot water or a pipe cleaner.Inspect the water supplylinefor any leaks or damage and replace if necessary. - Replace the water filterif it 's clogged or past its lifespan.",
+
+        "Unusual noises coming from the refrigerator": "If your problem was Loose components, a malfunctioning compressor,or a faulty evaporator fan motor then Check for any loose or vibrating components and tighten them if needed.If the noise persists it might indicate a problem with the compressor or fan motor,which would require professional attention.",
+
+        "Refrigerator not dispensing water or ice": "If your problem was Frozen water supply line, clogged water filter, or a malfunctioning dispenser mechanism then Thaw out any frozen sections of the water supply line by turning off the refrigerator and using a hairdryer to gently warm the area.Replace the water filter if it 's clogged. Inspect the dispenser mechanism for any blockages or damage and repair or replace as necessary.",
+
+        "Uneven cooling or temperature fluctuations": "If your problem was Overcrowded refrigerator, improper temperature settings, or a malfunctioning thermostat then Rearrange items inside the refrigerator to allow for better airflow.Check and adjust the temperature settings according to the manufacturer 's recommendations.If the problem persists,consider replacing the thermostat or seeking professional assistance."
+    },
+    "Oven": {
+        "Uneven Cooking": "If your oven tends to cook food unevenly, it could be due to hot spots or improper air circulation.Rotate your baking trays halfway through cooking to ensure even cooking.You can also try using a baking stone or a pizza steel to distribute heat more evenly.",
+
+        "Temperature Inaccuracy": "Ovens may sometimes have inaccurate temperature readings, leading to overcooked or undercooked food.Use an oven thermometer to check the actual temperature inside your oven.Many ovens have a calibration feature that allows you to adjust the temperature settings accordingly.",
+
+        "Burned-on Food Residue": "Food spills and residue can accumulate in the oven, leading to smoke and unpleasant odors during cooking.Many modern ovens have a self - cleaning feature.Activate the self - clean cycle,and the oven will heat up to high temperatures,burning off the food residue.After the cycle,simply wipe away the ash.",
+
+        "Door Not Closing Properly": "If the oven door doesn't close properly, it can lead to heat loss and uneven cooking.Check for any obstructions around the door or hinges.Clean the door gasket to ensure a proper seal.If the hinges are loose or damaged,they may need to be tightened or replaced.",
+
+        "Faulty Ignition or Heating Elements": "Gas ovens may have issues with the ignition system, while electric ovens may experience problems with heating elements.For gas ovens,ensure the pilot light is lit and the ignition system is functioning properly.Electric ovens may require replacing faulty heating elements.Refer to the manufacturer 's manual for guidance on replacement.",
+
+        "Dysfunctional Timer or Controls": "Malfunctions in the oven's control panel or timer can disrupt cooking processes.Check for any loose connections or damaged wiring in the control panel.Reset the oven by turning off the power for a few minutes and then turning it back on.If issues persist,contact a professional technician for repair or replacement.",
+
+        "Excessive Noise": "Unusual noises such as rattling or humming during operation can indicate mechanical issues.Inspect the oven 's internal components for any loose parts or debris. Tighten screws and bolts as necessary. If the noise persists, it may indicate a more serious problem requiring professional attention.",
+
+        "Foul Odors": "Persistent foul odors emanating from the oven can be unpleasant and may affect the taste of food.Clean the interior of the oven regularly to remove any food spills or residue.Use a mixture of baking soda and water or a commercial oven cleaner for stubborn stains and odors.Ensure proper ventilation during and after cleaning to dissipate odors."
+    },
+    "Air Contditioner": {
+        "Poor Cooling Performance": "This can be due to various reasons such as dirty air filters, blocked vents, low refrigerant levels, or a malfunctioning compressor. If you are facing any one these issues then Clean or replace the air filters regularly.Ensure that vents are unobstructed.Check for refrigerant leaks and recharge if necessary.If the compressor is faulty, it may need repair or replacement by a professional technician.",
+
+        "Frozen Evaporator Coils": "This can be due to Restricted airflow, low refrigerant levels, or dirty coils can cause the evaporator coils to freeze.If you are facing any of these issues then Turn off the AC and let the ice thaw completely.Inspect and clean the coils.Check for and repair any refrigerant leaks.Ensure proper airflow by keeping vents unobstructed and changing filters regularly.",
+
+        "Water Leakage": "This can be due to Clogged condensate drain line, damaged pump, or improper installation.If you are facing any of these issues then Inspect the condensate drain line for clogs and clear them if present.Ensure the condensate pump is functioning correctly or replace if necessary.Check for proper installation and make adjustments if needed.",
+
+        "Strange Noises": "This can be due to Loose or damaged parts, malfunctioning compressor, or worn-out bearings.If you are facing any of these issues then Tighten loose parts such as screws and bolts.Lubricate moving components if applicable.If the compressor is the issue, it may need repair or replacement.Replace worn-out bearings or other damaged components.",
+
+        "Foul Order": "This can be due to Mold, mildew, or bacterial growth within the unit or ductwork.If you are facing any of these issues then Clean or replace air filters to prevent mold and mildew buildup.Schedule professional duct cleaning to eliminate contaminants within the ductwork.Use air purifiers or UV lights to prevent microbial growth within the unit.",
+
+
+        "Electrical Issues": "This can be due to Faulty wiring, capacitor problems, or issues with the thermostat.If you are facing any of these issues then Turn off power to the AC unit before inspecting or working on any electrical components.Check for loose or damaged wiring and repair or replace as needed.Test and replace faulty capacitors or other electrical components.Calibrate or replace the thermostat if it's not functioning correctly.",
+
+        "Short Cycling": "This can be due to Improperly sized unit, dirty air filters, or issues with the thermostat.If you are facing any of these issues then Ensure the AC unit is sized correctly for the space it's cooling.Clean or replace air filters regularly.Check thermostat settings and replace if necessary."
+
+    }
+}
